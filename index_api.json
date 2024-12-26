@@ -1,7 +1,5 @@
 {
-  "VersionCode": "1",
-  "VersionName": "1.1",
-  "FileSize": "22.4 MB",
-  "Cancelable": "true",
-  "DownloadLink": "https://google.com"
+  "URL_CLIENT": 1,
+  "URL_GAME_FILES": 1,
+  "URL_GAME_FILES_UPD": 1
 }
